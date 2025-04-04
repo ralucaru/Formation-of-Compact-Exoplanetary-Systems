@@ -1,0 +1,59 @@
+ Code units are Primary Radii, Primary Mass/(4PI**2),
+ and Orbital period at 1 Primary Radius, 
+   4.60563034317181       hrs
+ 
+ PRIMARY DATA: 
+ 
+ Mass of primary in grams:   1.989000000000000E+033
+ Radius of primary in km:    973930.602794943     
+ Primary cgs density is:   0.514000000000000     
+ Primary J2 is:   0.000000000000000E+000
+ 
+ 
+ DISK DATA: 
+ 
+ Total number of orbiting bodies:           50
+ Total mass of orbiting bodies in grams:   5.967000000000000E+027
+ Mass of largest body in g is:   1.193400000000000E+026
+ Radius of largest body in km is:    2011.60809253363     
+ Mean random velocity set to equal 0.75 times the
+   escape velocity of largest body, or <v_ran> = 
+   281319.116297692       cm/sec
+ RMS eccentricity of disk is:   2.706000308985682E-002
+ 
+ Cgs density of orbiting material:    3.50000000000000     
+ Roche radius in planetary radii:    1.29576641923009     
+ Inner disk edge in planetary radii:    15.4000000000000     
+ Outer disk edge in planetary radii:    92.0000000000000     
+ Power-law exponent for radial surface density:   0.000000000000000E+000
+ Unimodal mass distribution
+ 
+ Cgs ang. mom. inside Roche:   0.000000000000000E+000
+ Mass inside Roche in g:   0.000000000000000E+000
+ Cgs ang. mom. outside Roche:   1.674209866223390E+047
+ Mass outside Roche in g:   5.967000000000004E+027
+ Total cgs ang. mom.:   1.674209866223390E+047
+ Total mass in g:   5.967000000000004E+027
+ 
+ Total specific angular momentum scaled to  
+ specific angular momentum at Roche radius 
+ (Jtot/{Mtot*sqrt(aRocheGMprim)}): 
+   6.85719001388854     
+ 
+ GAS DISK PARAMETERS FOR GAS DRAG: 
+ Total mass of gas in region of solids (g):   4.450000000000000E+028
+ Gas surface density (1/r) exponent:   0.650000000000000     
+ Gas surface density at Rp,inner,outer edge is:    2472.21162229012     
+   418.020110040927        130.804762322551     
+ (c_romega) at planet surface,inner,outer edge: 
+  3.500000000000000E-002  3.904530981360376E-002  4.193914355609812E-002
+ (c_romega) proportional to r^:   4.000000000000000E-002
+ 
+ MASS INFLOW PARAMETERS: 
+ Time to deliver one primary mass to disk:    20000000.0000000     
+ Assumed gas-to-solilds in inflow:    100.000000000000     
+ Inner/outer edge of delivery zone in Rp:    15.4000000000000     
+   92.0000000000000     
+ Radial exponent for inflow:   0.000000000000000E+000
+ Mass of particles added (Mp):   5.000000000000000E-007
+ Inflow decay time in code units:    951733616.513216     
