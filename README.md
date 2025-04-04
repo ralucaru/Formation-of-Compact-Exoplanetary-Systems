@@ -1,8 +1,7 @@
 # Formation-of-Compact-Exoplanetary-Systems
 
-Origin of compact exoplanetary systems during disk infall
-Raluca Rufu and Robin M. Canup
-
+Data of simulations from "Origin of compact exoplanetary systems during disk infall"
+by Raluca Rufu and Robin M. Canup
 
 The folder includes the symba output and input files for the simulations shown in Figure 4a.
 The full description of the symba code and the structure of output and input files is available at: https://www.boulder.swri.edu/~hal/swift.html .
@@ -28,10 +27,10 @@ File description in each folder:
   -1 Body1Id  Body1Mass Body1Radius
    x1  y1  z1
    Vx1  Vy1  Vz1
-4. mass.bin.dat contains the mass of all bodies INCLUDING the central body,  similar format to symba
-5.  runinfo.in - details about the infall and the gas disk surface density input.
-6. outev - text output during the run.
-7. param.in - parameterss of the run, similar format to symba
-8. pl.in - initial distribution of planetesimals, similar format to symba
-9. inflowvst.out - contains the infall rate and surface density at each output timestep in code units.
-10. totalmassvst.out - number of bodies in simualtion and the total mass (normalized by the primary mass) each output timestep.
+3. mass.bin.dat contains the mass of all bodies INCLUDING the central body,  similar format to symba
+4. runinfo.in - details about the infall and the gas disk surface density input.
+5. outev - text output during the run.
+6. param.in - parameterss of the run, similar format to symba
+7. pl.in - initial distribution of planetesimals, similar format to symba
+8. inflowvst.out - contains the infall rate and surface density at each output timestep in code units.
+9. totalmassvst.out - number of bodies in simualtion and the total mass (normalized by the primary mass) each output timestep.
