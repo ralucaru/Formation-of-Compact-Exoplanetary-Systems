@@ -34,3 +34,5 @@ File description in each folder:
 7. pl.in - initial distribution of planetesimals, similar format to symba
 8. inflowvst.out - contains the infall rate and surface density at each output timestep in code units.
 9. totalmassvst.out - number of bodies in simualtion and the total mass (normalized by the primary mass) each output timestep.
+
+Cite:10.5281/zenodo.15232611
